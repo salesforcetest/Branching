@@ -2,4 +2,6 @@ public with sharing class BranchTesting {
     //this is a test class
     //branch testing
     //child branch
+    //testing1
+
 }
